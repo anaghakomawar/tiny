@@ -3,7 +3,8 @@
 Removes all spaces from a string.
 
 Install
-$ npm install @bamblehorse/tiny
+$ npm install @anagha/tiny
+
 Usage
 const tiny = require("@bamblehorse/tiny");
 
